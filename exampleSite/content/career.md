@@ -1,16 +1,14 @@
 ---
 title: Career
 layout: career
-description: Data Analyst require both business and technical skills, and must have
-  a good attention to detail. It's important that Data Analysts have a good understanding
-  of the goals of the business, as well as what data the business has at its disposal.
+description: Do what you enjoy, invest for your future and reap the benefits of working
+  with the worlds first advancement company that puts people first.
 about:
   enable: true
   title: Who we're looking for
-  content: An individual who is ready to learn, hard working, a critical thinker and
-    who is ready put professionalism first.
+  content: Bright, educated and hard working individuals who put professionalism first.
   video_thumb: images/promo-video-thumbnail.jpg
-  video_id: MfP-P8EHGBo
+  video_id: g3-VxLQO7do
 gallery:
   enable: true
   images:
@@ -19,28 +17,31 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: TINKER LOOK VALUES
+  title: amenities for you to enjoy
   funfacts_item:
-  - name: Open Communication
-    icon: fa-rss
-    content: Maintaining open lines of communication is an essential way of building
-      trust.
-  - name: Self-Motivation
-    icon: fa-cogs
-    content: High productivity in isolation and without supervision and monitoring.
-  - name: Team Work
-    icon: fa-handshake-o
-    content: Team work makes the dream work in time.
-  - name: Always Learn
-    icon: fa-certificate
-    content: Continuous improvement leads to professionalism and actualization.
+  - name: Flexible hours
+    icon: fa-bicycle
+    content: Tight schedule, tell us so we can tailor the schedule that fits your
+      needs.
+  - name: Free Snacks
+    icon: fa-bell-o
+    content: Tight schedule, tell us so we can tailor the schedule that fits your
+      needs.
+  - name: Recreation
+    icon: fa-microchip
+    content: Tight schedule, tell us so we can tailor the schedule that fits your
+      needs.
+  - name: 5 Working Days
+    icon: fa-plug
+    content: Tight schedule, tell us so we can tailor the schedule that fits your
+      needs.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer
     location: Hamburg, Germany
-    form_action: "#"
+    form_action: ''
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
