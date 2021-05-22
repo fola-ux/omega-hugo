@@ -31,10 +31,9 @@ funfacts:
   - name: Team Work
     icon: fa-handshake-o
     content: Team work makes the dream work in time.
-  - name: 5 Working Days
-    icon: fa-plug
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Always Learn
+    icon: fa-certificate
+    content: Continuous improvement leads to professionalism and actualization.
 career:
   enable: true
   title: Job Opening
