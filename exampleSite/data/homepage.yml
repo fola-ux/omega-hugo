@@ -90,7 +90,6 @@ contact:
     is fresh and always open for business. we look forward to hearing from you.
 call_to_action:
   enable: true
-  title: Join the Omega family. <br>Click below to view the career opportunities we
-    have for you.
-  button_label: Apply Now
+  title: Join the Tinker Look family. <br>Click below to view the career page.
+  button_label: View Now
   button_link: career
