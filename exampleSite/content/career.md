@@ -24,10 +24,9 @@ funfacts:
     icon: fa-rss
     content: Maintaining open lines of communication is an essential way of building
       trust.
-  - name: Free Snacks
-    icon: fa-bell-o
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Self-Motivation
+    icon: fa-cogs
+    content: High productivity in isolation and without supervision and monitoring.
   - name: Recreation
     icon: fa-microchip
     content: Tight schedule, tell us so we can tailor the schedule that fits your
