@@ -16,13 +16,16 @@ banner:
     link: "#products"
 mission:
   enable: true
-  title: Propel Advancement
+  title: Bridging the gap
   section: MISSION
-  content: Introducing the world’s first Advancement Company. As we enter the dawn
-    of the digital age a significant leap must be made to propel the world into the
-    age of advancement.
+  content: Grooming and recruiting newbies in the field of Data Science, Data Analytics
+    and Business Intelligence, preparing recruited candidates for an early jump into
+    their career. Give recruited candidates an edge to earn the right working skills
+    in the field of Data Science. Assist candidates in gaining the number of years
+    required for Data Science job entries. Breaking the barrier of number of work
+    experience for recent graduates who want to jump into the Data industry.
   video_thumb: images/video-thumb.jpg
-  video_id: ResipmZmpDU
+  video_id: xC-c7E5PK0Y
 vision:
   enable: true
   section: VISION
