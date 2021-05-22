@@ -48,17 +48,20 @@ vision:
       onto the web like deer on a freeway. <br> -Geoffrey Moore
 product:
   enable: true
-  section: Products
-  title: Some Of Our Best Products
-  content: See the innovation that has come through the Rio way. As an advancement
-    company, the goal is to continuously find areas to help business push forward.
-    Below you can find the first product available to help you do so.
+  section: Service
+  title: Some Of Our Services
+  content: At TINKER LOOK we train and develop teams focused on technology and innovation
+    to improve performance and quality of project delivery through data driven projects.
   product_item:
-  - title: Ecosystem
+  - title: DataFlow and Management
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: With several Big Data solutions available today, choosing the best one
+      for your needs is a challenge. Our team, helps you enter the world of Big Data
+      and develop a scalable, reliable and real-time information solution that integrates
+      seamlessly with your existing data infrastructure. Behind this, there is a cycle
+      that begins with data extraction, organization, treatment and understanding.
+      All standards are designed to filter and bring you the best insights.
+    project_url: ''
   - title: Objects
     image: images/product/product-02.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
