@@ -1,4 +1,4 @@
-baseURL = "https://tinkerlook.com"
+baseURL = "https://tinkerlook.netlify.app"
 googleAnalytics = ""
 theme = "omega"
 title = "OMEGA"
