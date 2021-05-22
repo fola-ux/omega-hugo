@@ -30,10 +30,12 @@ vision:
   enable: true
   section: VISION
   vision_item:
-  - title: People First
+  - title: Newbies
     image: images/vision/vision-01.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Build professional-quality Analyst who would implement the right tools
+      used by professional analyst and data scientist. Showcase skills during data
+      science research and development activities. Development of new products from
+      ideas shared and assigned.
   - title: Employee Culture
     image: images/vision/vision-02.jpg
     content: I started with a vision of creating an atmosphere where people come first.
