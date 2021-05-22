@@ -1,8 +1,9 @@
 ---
 title: Career
-layout: career
-description: Do what you enjoy, invest for your future and reap the benefits of working
-  with the worlds first advancement company that puts people first.
+layout: CAREER
+description: Data Analyst require both business and technical skills, and must have
+  a good attention to detail. It's important that Data Analysts have a good understanding
+  of the goals of the business, as well as what data the business has at its disposal.
 about:
   enable: true
   title: Who we're looking for
