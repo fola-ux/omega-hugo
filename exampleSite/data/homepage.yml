@@ -84,12 +84,10 @@ product:
 contact:
   enable: true
   section: CONTACT US
-  title: reach us
+  title: got any request
   image: images/map-bg.jpg
-  content: The dawn of the digital age and the need for a significant leap forward
-    is here. We believe that every business has the opportunity to move into this
-    new age with the right mindset. Contact us today to begin understanding how Omega
-    can propel your business.
+  content: we are here to help and attend to any question you might have. our contact
+    is fresh and always open for business. we look forward to hearing from you.
 call_to_action:
   enable: true
   title: Join the Omega family. <br>Click below to view the career opportunities we
