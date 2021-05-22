@@ -18,12 +18,12 @@ gallery:
   - images/gallery/gallery-03.png
 funfacts:
   enable: true
-  title: amenities for you to enjoy
+  title: TINKER LOOK VALUES
   funfacts_item:
-  - name: Flexible hours
-    icon: fa-bicycle
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Open Communication
+    icon: fa-rss
+    content: Maintaining open lines of communication is an essential way of building
+      trust.
   - name: Free Snacks
     icon: fa-bell-o
     content: Tight schedule, tell us so we can tailor the schedule that fits your
