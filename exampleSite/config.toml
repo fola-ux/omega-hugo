@@ -1,7 +1,7 @@
 baseURL = "https://tinkerlook.netlify.app"
 googleAnalytics = ""
 theme = "omega"
-title = "tinkerlook"
+title = "TINKER LOOK"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
