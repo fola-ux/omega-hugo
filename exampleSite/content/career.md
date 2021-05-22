@@ -1,6 +1,6 @@
 ---
 title: Career
-layout: CAREER
+layout: career
 description: Data Analyst require both business and technical skills, and must have
   a good attention to detail. It's important that Data Analysts have a good understanding
   of the goals of the business, as well as what data the business has at its disposal.
