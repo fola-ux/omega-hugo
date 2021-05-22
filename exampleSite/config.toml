@@ -35,7 +35,7 @@ contact_info = "We <br>Work <br>Remotely."
 description = "This is meta description"
 logo = ""
 logo_width = "120px"
-preloader = false
+preloader = true
 [params.cookies]
 enable = true
 expire_days = 2
