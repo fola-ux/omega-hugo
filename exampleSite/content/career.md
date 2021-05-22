@@ -28,10 +28,9 @@ funfacts:
   - name: Self-Motivation
     icon: fa-cogs
     content: High productivity in isolation and without supervision and monitoring.
-  - name: Recreation
-    icon: fa-microchip
-    content: Tight schedule, tell us so we can tailor the schedule that fits your
-      needs.
+  - name: Team Work
+    icon: fa-handshake-o
+    content: Team work makes the dream work in time.
   - name: 5 Working Days
     icon: fa-plug
     content: Tight schedule, tell us so we can tailor the schedule that fits your
