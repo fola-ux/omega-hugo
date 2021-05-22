@@ -41,8 +41,8 @@ enable = true
 expire_days = 2
 [params.map]
 enable = true
-gmap_api = ""
-map_center_lat = ""
+gmap_api = "#"
+map_center_lat = "#"
 map_center_lng = "-80.732655"
 map_marker = "images/map-marker.png"
 map_position_lat = "25.7635916"
