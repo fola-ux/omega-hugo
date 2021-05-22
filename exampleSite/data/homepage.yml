@@ -92,4 +92,4 @@ call_to_action:
   enable: true
   title: Join the Tinker Look family. <br>Click below to view the career page.
   button_label: View Now
-  button_link: Form
+  button_link: https://docs.google.com/forms/d/e/1FAIpQLSfPErrlQHtWYf7v8egmmxr3_jwCXmoLKFlWfdizJdPY23tWKA/viewform?usp=pp_url
