@@ -62,11 +62,16 @@ product:
       that begins with data extraction, organization, treatment and understanding.
       All standards are designed to filter and bring you the best insights.
     project_url: ''
-  - title: Objects
+  - title: Data Consultancy
     image: images/product/product-02.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: We know that each person, in their daily lives, produces a multitude
+      of information generating a large volume of data, all of which can become valuable
+      when handled with care and intelligence is applied. Companies receive daily
+      various types of information from their customers, personal data, interests,
+      as well as a lot of information and numbers that are underused. By applying
+      Data Analytic skills, our professionals, are able to examine the data and find
+      patterns in each set.
+    project_url: ''
   - title: Publisher
     image: images/product/product-03.jpg
     content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
