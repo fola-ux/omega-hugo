@@ -42,10 +42,10 @@ vision:
       products with assertiveness and create campaigns with high engagement analyzing
       data and basing your strategies on this pillar with automated, available and
       robust reports.
-  - title: The Omega Way
+  - title: Our belief
     image: images/vision/vision-03.jpg
-    content: I started with a vision of creating an atmosphere where people come first.
-      <br>Paul Sanar Founder
+    content: Without big data analytics, companies are blind and deaf, wandering out
+      onto the web like deer on a freeway. <br> -Geoffrey Moore
 product:
   enable: true
   section: Products
