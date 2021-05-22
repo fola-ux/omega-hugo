@@ -72,11 +72,15 @@ product:
       Data Analytic skills, our professionals, are able to examine the data and find
       patterns in each set.
     project_url: ''
-  - title: Publisher
+  - title: Internship and Assistanship
     image: images/product/product-03.jpg
-    content: Omega OS Version 2.0 is the world’s first and only cloud operating system.
-      See how this revolutionarys oftware can become the center of your business.
-    project_url: "#"
+    content: Not only do we carry out Statistical data processing, machine learning
+      and Analytical solutions. We have a learning platform whereby students with
+      interest in data analytics could sharpen their skills with all the available
+      material and tools they would be gaining access to at Tinker look. We encourage
+      students to partner with us on several projects, to prepare them for the data
+      science, business intelligence or analyst roles after their education.
+    project_url: ''
 contact:
   enable: true
   section: CONTACT US
