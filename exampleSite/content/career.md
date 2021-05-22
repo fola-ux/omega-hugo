@@ -6,9 +6,10 @@ description: Do what you enjoy, invest for your future and reap the benefits of 
 about:
   enable: true
   title: Who we're looking for
-  content: Bright, educated and hard working individuals who put professionalism first.
+  content: An individual who is ready to learn, hard working, a critical thinker and
+    who is ready put professionalism first.
   video_thumb: images/promo-video-thumbnail.jpg
-  video_id: g3-VxLQO7do
+  video_id: MfP-P8EHGBo
 gallery:
   enable: true
   images:
