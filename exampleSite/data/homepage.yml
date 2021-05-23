@@ -87,7 +87,8 @@ contact:
   title: got any request
   image: images/map-bg.jpg
   content: we are here to help and attend to any question you might have. our contact
-    is fresh and always open for business. we look forward to hearing from you.
+    is fresh and always open for business. we look forward to hearing from you.<br>tel:+2349034417900
+    <br>mailto:services.tinkerlook@gmail.com
 call_to_action:
   enable: true
   title: Join the Tinker Look family. <br>Click below to apply for the Power BI Bootcamp.
