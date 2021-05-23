@@ -5,30 +5,34 @@ title = "TINKER LOOK"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Home"
-pre = ""
-url = "/"
-weight = 1
+name = "Apply"
+url = "https://docs.google.com/forms/d/e/1FAIpQLSfPErrlQHtWYf7v8egmmxr3_jwCXmoLKFlWfdizJdPY23tWKA/viewform?usp=pp_url"
+weight = 6
 [[menu.main]]
-name = "About"
+name = "Contact"
 pre = "#"
-url = "mission"
-weight = 2
-[[menu.main]]
-name = "Products"
-pre = "#"
-url = "products"
-weight = 3
+url = "contact"
+weight = 5
 [[menu.main]]
 name = "Career"
 pre = ""
 url = "career"
 weight = 4
 [[menu.main]]
-name = "Contact"
+name = "Products"
 pre = "#"
-url = "contact"
-weight = 5
+url = "products"
+weight = 3
+[[menu.main]]
+name = "About"
+pre = "#"
+url = "mission"
+weight = 2
+[[menu.main]]
+name = "Home"
+pre = ""
+url = "/"
+weight = 1
 [params]
 author = "Themefisher"
 contact_info = "We <br>Work <br>Remotely."
