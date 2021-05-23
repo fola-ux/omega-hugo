@@ -92,5 +92,5 @@ call_to_action:
   enable: true
   title: Join the Tinker Look family Today. <br>Click the Apply button above to join
     the power BI Bootcamp. <br>Click request below for any enquiry.
-  button_label: Apply Now
-  button_link: https://docs.google.com/forms/d/e/1FAIpQLSfPErrlQHtWYf7v8egmmxr3_jwCXmoLKFlWfdizJdPY23tWKA/viewform?usp=pp_url
+  button_label: Request
+  button_link: mailto:services.tinkerlook@gmail.com
