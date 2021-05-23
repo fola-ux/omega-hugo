@@ -14,9 +14,9 @@ about:
 gallery:
   enable: true
   images:
-  - images/gallery/gallery-01.png
+  - images/resize-1621701347571194457anniespratthcb3lib8l8eunsplash.jpg
   - images/gallery/gallery-02.png
-  - images/gallery/gallery-03.png
+  - images/resize-1621701214320905688christinawocintechchatcomfaefwcdokigunsplash.jpg
 funfacts:
   enable: true
   title: TINKER LOOK VALUES
