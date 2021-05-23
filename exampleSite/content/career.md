@@ -35,7 +35,7 @@ funfacts:
     icon: fa-certificate
     content: Continuous improvement leads to professionalism and actualization.
 career:
-  enable: true
+  enable: false
   title: Job Opening
   job_item:
   - name: Android Developer
