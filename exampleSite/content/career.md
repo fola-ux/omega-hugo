@@ -35,12 +35,12 @@ funfacts:
     icon: fa-certificate
     content: Continuous improvement leads to professionalism and actualization.
 career:
-  enable: false
+  enable: true
   title: Job Opening
   job_item:
   - name: Android Developer
     location: Hamburg, Germany
-    form_action: ''
+    form_action: "#"
     about: With experience in creating visual directions for tech products, you are
       able to set the standard and lead designers along the way. You are not only
       able to execute beautiful user experiences yourself but communicate those concepts
