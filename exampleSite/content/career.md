@@ -9,7 +9,7 @@ about:
   title: Who we're looking for
   content: An individual who is ready to learn, hard working, a critical thinker and
     who is ready put professionalism first.
-  video_thumb: images//images/video-thumb.jpg
+  video_thumb: images/video-thumb.jpg
   video_id: MfP-P8EHGBo
 gallery:
   enable: true
