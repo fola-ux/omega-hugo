@@ -82,7 +82,6 @@ contact:
     is fresh and always open for business. we look forward to hearing from you.
 call_to_action:
   enable: true
-  title: Join the Tinker Look family Today. <br>Click the Apply button above to join
-    the power BI Bootcamp. <br>Click request below for any enquiry.
+  title: Join the Tinker Look family Today. <br>Click request below for any enquiry.
   button_label: Request
   button_link: mailto:services.tinkerlook@gmail.com
