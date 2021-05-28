@@ -50,7 +50,7 @@ product:
   enable: true
   section: Service
   title: Some Of Our Services
-  content: At TINKER LOOK we train and develop teams focused on technology and innovation
+  content: At TINKERLOOK we train and develop teams focused on technology and innovation
     to improve performance and quality of project delivery through data driven projects.
   product_item:
   - title: DataFlow and Management
