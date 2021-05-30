@@ -19,7 +19,7 @@ gallery:
   - images/resize-1621701214320905688christinawocintechchatcomfaefwcdokigunsplash.jpg
 funfacts:
   enable: true
-  title: TINKER LOOK VALUES
+  title: TINKERLOOK VALUES
   funfacts_item:
   - name: Open Communication
     icon: fa-rss
