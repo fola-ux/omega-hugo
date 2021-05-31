@@ -5,10 +5,6 @@ title = "TINKERLOOK"
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.main]]
-name = "Apply"
-url = "https://docs.google.com/forms/d/e/1FAIpQLSey3bADoXvN5HkibwPQaQ_UInZ3TYZKiztYPupBYiv_rUMGQA/viewform?usp=pp_url"
-weight = 6
-[[menu.main]]
 name = "Contact"
 pre = "#"
 url = "contact"
